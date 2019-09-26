@@ -1,10 +1,10 @@
 {
-    "name": "php-composer/docker",
-    "description": "composerをdockerイメージ使ってupdateする",
+    "name": "docker-multi-stage-build/docker",
+    "description": "multi stage buildをつかってみた",
     "authors": [
         {
             "name": "yuya.sega",
-            "email": "sega@sorich.jp"
+            "email": "test@test.jp"
         }
     ],
     "require": {
