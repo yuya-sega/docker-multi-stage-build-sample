@@ -1,0 +1,13 @@
+{
+    "name": "php-composer/docker",
+    "description": "composerをdockerイメージ使ってupdateする",
+    "authors": [
+        {
+            "name": "yuya.sega",
+            "email": "sega@sorich.jp"
+        }
+    ],
+    "require": {
+        "laravel/framework": "6.0.*" 
+    }
+}
